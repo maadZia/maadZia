@@ -10,6 +10,8 @@
 - :art: czasem coś narysuję, wyszydełkuję lub sprawdzę się jako wizażystka 
 - :two_hearts: zawsze chętnie służe pomocą, radą i zrozumieniem
 
+### **link do mojej strony ->** [maadzia.github.io](https://maadzia.github.io/)
+
 ***
 
 ![](dino.jpg)
