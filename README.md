@@ -17,3 +17,5 @@
 ![](dino.jpg)
 
 ***
+
+A tutaj podrzucam jeszcze linki do [repozytorium](https://github.com/maadZia/code_contests) oraz bardzo ciekawego [artykułu](https://arxiv.org/pdf/2212.01020v1.pdf) dotyczącego przełomu w programowaniu z wykorzystaniem sztucznej inteligencji, znalezionego na stronie [Papers with Code](https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be)
